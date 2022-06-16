@@ -2,11 +2,15 @@
 ### Contacts:
 * **E-mail:**  voinov2009@gmail.com
 * **Discord:** bambaster
-* **Tel:** +79268267411
+* **Tel:** +79108269017
 ### About myself:
 I want to learn Front-End Development in **RSSchool!**
 ### Code example:
-`console.log('Hello world')` :D
+```
+function multiply(a, b){
+  a * b
+}
+```
 ### Work experience:
 don't have any experience yet
 ### Education and courses:
