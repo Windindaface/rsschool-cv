@@ -1,0 +1,45 @@
+ul {
+    list-style: none; 
+    margin: 0; 
+    padding-left: 0; 
+  }
+  a {text-decoration: none;}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(233, 233, 233);
+    min-height: 160vh;
+    width: 60%;
+    margin: 2rem auto;
+    display: grid;
+    background-color: white;
+    border: double #797979;
+    text-align: center
+}
+.menu-item {
+    display: inline;
+    padding: 25px;
+  }
+
+h1 {
+    text-align: center;
+    position: relative;
+}
+
+.menu{
+    margin-top: 10px;
+    padding-bottom: 50px;
+}
+
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.under-name-text{
+    text-align: center;
+    position: relative;
+    bottom: 65px;
+}
