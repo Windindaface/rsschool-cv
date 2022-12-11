@@ -1,1 +1,1 @@
-https://Windindaface.github.io/rsschool-cv/cv
+https://Windindaface.github.io/rsschool-cv/
